@@ -5,13 +5,14 @@
 Q: Por que o número de filhos, ou grau, de um nó de uma árvore B qualquer não pode ser
 igual a 1?
 
-R:
+R: Como a ordem é 1, seria possível criar uma árvore onde todos os nós tem somente 1 filho, o que acabaria criando uma lista ao invés de uma árvore.
+
 
 ## Questão 2
 
 Q: Para que valores de ordem d a árvore da figura abaixo é uma árvore B válida? 
 
-R:
+R: Ordem 1
 
 ## Questão 3
 
@@ -24,13 +25,12 @@ R:
 
 Q: Explique como encontrar a maior chave armazenada em uma árvore B. 
 
-R:
+R: Deve-se iterar sobre a árvore e ir sempre verificando os filhos direitos de cada nó. Quando o nó atual apontar para null, o nó atual será o maior valor da árvore.
 
 ## Questão 5
 
 Q: Desenhe, passo a passo, uma árvore B de ordem d = 2 inserindo as seguintes chaves na
-ordem em que estão sendo informadas: 99, 50, 60, 37, 45, 15, 28, 40, 58, 89, 70, 65, 59,
-48, 49, 53. 
+ordem em que estão sendo informadas: 99, 50, 60, 37, 45, 15, 28, 40, 58, 89, 70, 65, 59, 48, 49, 53. 
 
 R:
 
