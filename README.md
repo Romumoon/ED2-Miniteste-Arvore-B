@@ -20,6 +20,8 @@ Q: Mostre todas as árvores B válidas de ordem d = 1 que possuem as seguintes c
 {1,2,3,4,5}
 
 R:
+![3_miniteste](https://user-images.githubusercontent.com/72577690/203876724-4a754384-403d-4f56-95a7-fbda15b7a00c.jpg)
+
 
 ## Questão 4
 
