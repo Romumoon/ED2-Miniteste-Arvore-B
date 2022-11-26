@@ -5,7 +5,7 @@
 Q: Por que o número de filhos, ou grau, de um nó de uma árvore B qualquer não pode ser
 igual a 1?
 
-R: Como a ordem é 1, seria possível criar uma árvore onde todos os nós tem somente 1 filho, o que acabaria criando uma lista ao invés de uma árvore.
+R: Como o número de filhos é 1, seria possível criar uma árvore onde todos os nós tem somente 1 filho, o que acabaria criando uma lista ao invés de uma árvore.
 
 
 ## Questão 2
